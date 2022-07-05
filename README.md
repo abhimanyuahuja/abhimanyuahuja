@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="assets/1.gif" width="50%">
+
 <!--
 **abhimanyuahuja/abhimanyuahuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
